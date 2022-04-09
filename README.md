@@ -1,2 +1,2 @@
 # RxJS
-## Create own stream
+## How work subject
